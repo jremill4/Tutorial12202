@@ -22,7 +22,7 @@ body, html {
     height: 100%;
 }
 .hero-image{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("file:///C:/Users/jrem3/OneDrive/Desktop/2202%20Tutorial%201/mypic.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("file:https://github.com/jremill4/Tutorial12202/blob/main/mypic.png");
     height: 80%;
     background-position: center;
     background-repeat: no-repeat;
