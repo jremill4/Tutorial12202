@@ -22,7 +22,7 @@ body, html {
     height: 100%;
 }
 .hero-image{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../mypic.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("mypic.png");
     height: 80%;
     background-position: center;
     background-repeat: no-repeat;
